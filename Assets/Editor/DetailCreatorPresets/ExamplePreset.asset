@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2c729e506e8fc24f956791b4abfc248, type: 3}
+  m_Name: ExamplePreset
+  m_EditorClassIdentifier: 
+  spawnAreaType: 0
+  spawnRadius: 5
+  verticalDistance: 5
+  spawnAreaScale: {x: 10, y: 10, z: 10}
+  hideSpawnArea: 1
+  removeNonSnapped: 1
+  preventOverlap: 1
+  minDistance: 1
+  correctionDistance: 0.2
+  overlapIterations: 3
+  minAmount: 20
+  maxAmount: 40
+  syncPrefabOptions: 0
+  prefabListLength: 0
+  prefabsToSpawn: []
+  clearOnGenerate: 1
+  seed: 0
+  autoSeed: 1
+  ignoreSnapTargets: 0
+  snapTargets: []

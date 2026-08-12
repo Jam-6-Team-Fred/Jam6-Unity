@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain_IP_SimulationWater_mat
+  m_Shader: {fileID: 4800000, guid: 4b6e0369da807d04ebb7b53300dc13ae, type: 2}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _GemNorm:
+        m_Texture: {fileID: 2800000, guid: 6c1fd4aabc48b8d42abdec9a1a4a62b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _GemTex:
+        m_Texture: {fileID: 2800000, guid: c093da73b5b15ce41931b4723e6fe422, type: 3}
+        m_Scale: {x: 1.2, y: 1.2}
+        m_Offset: {x: 0.5, y: 0}
+      _GroundNoiseTex:
+        m_Texture: {fileID: 2800000, guid: 5661af9203a38bb4f9df85e65d823168, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Lines1Tex:
+        m_Texture: {fileID: 2800000, guid: 74f5eb7210c8cbe49b1f59453d55afec, type: 3}
+        m_Scale: {x: 0.075, y: 0.0125}
+        m_Offset: {x: 0, y: 0.2}
+      _Lines2Tex:
+        m_Texture: {fileID: 2800000, guid: 74f5eb7210c8cbe49b1f59453d55afec, type: 3}
+        m_Scale: {x: 0.075, y: 0.0125}
+        m_Offset: {x: 0, y: -0.2}
+      _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: fd0d7314f4822d24696b9dfcec97ffe8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ReflectCubeMap:
+        m_Texture: {fileID: 8900000, guid: bc1f6fcb6dd56d642b44a469ad6d5bcd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _RefractCubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 1
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _ReflectSmoothness: 0.936
+      _RefractScale: 1.02
+      _RefractSmoothness: 1
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _VertexColorAlbedo: 0
+      _VertexColorSpecular: 0
+      _VertexOcclusion: 0
+      _ViewModel: 0
+      _ZWrite: 1
+    m_Colors:
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _DepthColor: {r: 0.6397059, g: 0.92545646, b: 1, a: 1}
+      _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+      _GemColor: {r: 0.12099997, g: 0.986, b: 0.865, a: 1}
+      _GemParams: {r: 2, g: 0.5, b: -30, a: 0.05}
+      _GemsColor: {r: 0.049068037, g: 4.594794, b: 3.4448643, a: 1}
+      _LinesColor: {r: 0.049068037, g: 4.594794, b: 3.1390262, a: 1}

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain_IP_Cliffside_mat
+  m_Shader: {fileID: 4800000, guid: bd05c2423232ae147b0b85b869324fb9, type: 2}
+  m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BlendedBumpMap:
+        m_Texture: {fileID: 2800000, guid: 0f682f0e16763a44c9122cb817c5cdb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _BlendedMainTex:
+        m_Texture: {fileID: 2800000, guid: 2ceb7de798d77624f89955cbb71143f1, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+      _BlendedMetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: b14ccd41370d60942a08eb6ff9c90283, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _BottomOverlayAlbedoTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _BottomOverlayBumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _BottomOverlayMetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 0f682f0e16763a44c9122cb817c5cdb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailAlbedoMap:
+        m_Texture: {fileID: 2800000, guid: 95bc78c891bb4a041a7b0eaff671dab6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2ceb7de798d77624f89955cbb71143f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 8f22bbd1354651d48a8d6e0a56b0fc0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _TopOverlayAlbedoTex:
+        m_Texture: {fileID: 2800000, guid: 3e94dfde810484d40971f27d8c0c010c, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+      _TopOverlayBumpMap:
+        m_Texture: {fileID: 2800000, guid: ef42a9967bfb4b646a61fe965ec943cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _TopOverlayMetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 5672aea99a863444dadfc45b8294d09d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _BlendedBlendWidth: 0.691
+      _BlendedBumpScale: 0.25
+      _BlendedGlossiness: 0.8
+      _BottomAltitudeBlendWidth: 1
+      _BottomAltitudeCutoff: 250
+      _BottomAngleBlendWidth: 0.1
+      _BottomAngleCutoff: -0.567
+      _BottomHeightBlendWidth: 1
+      _BottomOverlayBumpScale: 1
+      _BottomOverlayGlossiness: 0.5
+      _BumpScale: 0.5
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 0.5
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.817
+      _GlossyReflections: 1
+      _Metallic: 0
+      _Mode: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _TopAltitudeBlendWidth: 50
+      _TopAltitudeCutoff: 202.4
+      _TopAngleBlendWidth: 0.244
+      _TopAngleCutoff: 0.3
+      _TopHeightBlendWidth: 0.418
+      _TopOverlayBumpScale: 1
+      _TopOverlayGlossiness: 0.5
+      _UVSec: 0
+      _VertexColorAlbedo: 0
+      _VertexColorSpecular: 0
+      _VertexOcclusion: 0
+      _ViewModel: 0
+      _ZWrite: 1
+    m_Colors:
+      _BlendedColor: {r: 0.79676497, g: 0.8088235, b: 0.68393165, a: 1}
+      _BottomOverlayColor: {r: 1, g: 1, b: 1, a: 1}
+      _Color: {r: 0.902, g: 0.9586222, b: 1, a: 1}
+      _DetailAlbedoCoords: {r: 210, g: 410, b: 0, a: 0}
+      _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+      _TopOverlayColor: {r: 1, g: 1, b: 1, a: 1}

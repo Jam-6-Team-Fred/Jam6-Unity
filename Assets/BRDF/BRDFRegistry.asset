@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03dd725ea4fb234944d83ca45378150, type: 3}
+  m_Name: BRDFRegistry
+  m_EditorClassIdentifier: 
+  brdfSpecColors:
+  - {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 1}
+  - {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 1}
+  - {r: 0.3529412, g: 0.38431373, b: 1, a: 1}
+  - {r: 0.1800389, g: 0.27116925, b: 0.8161765, a: 1}
+  - {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 1}
+  - {r: 0.7966047, g: 1.0220588, b: 1.0127298, a: 1}
+  - {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  brdfLookups:
+  - {fileID: 2800000, guid: 095f89787aabbaa44956bf6f31e1480c, type: 3}
+  - {fileID: 2800000, guid: 7fc4d2640a4ce3e46940b0c60720258a, type: 3}
+  - {fileID: 2800000, guid: e4a0ac9b4a76bab4faabf8ace88b6acf, type: 3}
+  - {fileID: 2800000, guid: 7e3c8ab365dcc684d9e9fc157b6ecccc, type: 3}
+  - {fileID: 2800000, guid: fd5a7b3b9e4ac194cb854d5adf4e5fe3, type: 3}
+  - {fileID: 2800000, guid: f162afe99401424418524967aedac2d1, type: 3}
+  - {fileID: 2800000, guid: 3b1106cb78f8b46449391cae8af4e834, type: 3}
+  - {fileID: 0}
+  brdfLookupArray: {fileID: 18700000, guid: 50263da80384aa649a1717022fc1c230, type: 2}
