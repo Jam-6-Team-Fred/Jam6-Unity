@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 82
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 71
+  controlID: 83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 72
+  controlID: 84
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -451,20 +451,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Nomai Ruins/Resources/Materials
+    - Assets/Nomai Ruins/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 75
   m_LastFolders:
-  - Assets/Nomai Ruins/Resources/Materials
+  - Assets/Nomai Ruins/Prefabs
   m_LastFoldersGridSize: 75
   m_LastProjectPath: C:\Users\T3rtu\Documents\Unity\Jam6
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 116}
-    m_SelectedIDs: 1abc0000
-    m_LastClickedID: 48154
-    m_ExpandedIDs: 00000000fab90000fcb9000018ba000018bc000000ca9a3b
+    scrollPos: {x: 0, y: 112}
+    m_SelectedIDs: 089a0000
+    m_LastClickedID: 39432
+    m_ExpandedIDs: 000000000696000008960000e0990000069a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +492,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fab90000fcb90000
+    m_ExpandedIDs: 000000000696000008960000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,7 +544,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 736}
+    m_ScrollPosition: {x: 0, y: 600}
     m_GridSize: 75
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -614,10 +614,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 24}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ea74d4ffa6a8d8ffd65bd9ff525ed9ff805fd9ff9860d9ff1c37deff0af8f0ffa2b4feff38b5feffd0b5feffd4b5fefff6b5feff02b6feff46b6feff52b6feff5eb6feff7eb6feff86b6feff8cb6feffd8b6feffe8b30000
+      m_ExpandedIDs: ea7da9ff1eec060022ec060026ec06002aec06002cec060032ec060034ec06003aec06003eec060042ec060044ec06004aec060052ec060058ec06005cec060062ec060066ec06006aec06006eec060072ec060076ec06007aec06007cec060080ec060086ec060010ed0600
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -677,9 +677,9 @@ MonoBehaviour:
   m_PlayAudio: 1
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 607.95276, y: 61.839027, z: -143.52084}
+    m_Target: {x: -420.21664, y: -161.71004, z: 386.3469}
     speed: 2
-    m_Value: {x: 607.95276, y: 61.839027, z: -143.52084}
+    m_Value: {x: -420.21664, y: -161.71004, z: 386.3469}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -725,20 +725,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.011376941, y: 0.7550658, z: -0.0098987045, w: 0.6557779}
+    m_Target: {x: -0.15857178, y: 0.43769246, z: -0.079831034, w: -0.8814702}
     speed: 2
-    m_Value: {x: 0.012407209, y: 0.7519426, z: -0.010973771, w: 0.65902054}
+    m_Value: {x: -0.15759763, y: 0.43382174, z: -0.07846267, w: -0.8836319}
   m_Size:
-    m_Target: 491.88025
+    m_Target: 401.65497
     speed: 2
-    m_Value: 491.88025
+    m_Value: 401.65497
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.49999997
+    m_Speed: 0.9
+    m_SpeedNormalized: 0.46999997
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
