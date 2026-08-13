@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Structure_NOM_RotatingDoor_mat
+  m_Shader: {fileID: 4800000, guid: 809c0085c779df24fbff11f8e39a96c1, type: 2}
+  m_ShaderKeywords: _ALBEDOBLENDMODE_MULTIPLY2X _DETAIL_MULX2 _EMISSION _EMISSIONBLENDMODE_NONE _GLOSSBLENDMODE_NONE _METALBLENDMODE_NONE _METALLICGLOSSMAP _NORMALBLENDMODE_BLEND _NORMALMAP
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 2800000, guid: c95778533633eb343b34e01b8cbac0cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailAlbedoMap:
+        m_Texture: {fileID: 2800000, guid: ea2a4a53fa50a5547a119bc35611f23b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailNormalMap:
+        m_Texture: {fileID: 2800000, guid: 4b691988e9625d8498a55571b33f31e6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 12, y: 12}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 691bf617d2632ee4a9150b1e9c9bf97a, type: 3}
+        m_Scale: {x: 12, y: 12}
+        m_Offset: {x: 0, y: 0}
+      _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 4754cc5fa58d3ae46b45219091760b0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _AlbedoBlendMode: 3
+      _BlendUV: 0
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _Detail1BumpScale: 1
+      _Detail1Glossiness: 0.5
+      _Detail1Metallic: 0
+      _Detail1UV: 0
+      _Detail2BumpScale: 1
+      _Detail2Glossiness: 0.5
+      _Detail2Metallic: 0
+      _Detail2UV: 0
+      _DetailBumpScale: 1
+      _DetailGlossiness: 0.5
+      _DetailMetallic: 0
+      _DetailNormalMapScale: 0.75
+      _DetailUV: 0
+      _DstBlend: 0
+      _EmissionBlendMode: 0
+      _GlossBlendMode: 0
+      _GlossMapScale: 1
+      _Glossiness: 0
+      _GlossyReflections: 1
+      _MainUV: 0
+      _MetalBlendMode: 0
+      _Metallic: 0
+      _Mode: 0
+      _NormalBlendMode: 2
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _VertexColorAlbedo: 0
+      _VertexColorSpecular: 0
+      _VertexOcclusion: 0
+      _ViewModel: 0
+      _ZWrite: 1
+    m_Colors:
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _Detail1Color: {r: 1, g: 1, b: 1, a: 1}
+      _Detail1EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _Detail2Color: {r: 1, g: 1, b: 1, a: 1}
+      _Detail2EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _DetailColor: {r: 1, g: 1, b: 1, a: 1}
+      _DetailEmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
