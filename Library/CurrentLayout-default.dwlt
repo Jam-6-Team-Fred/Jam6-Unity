@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 82
+  controlID: 64
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1848
     height: 1037
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 83
+  controlID: 65
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 84
+  controlID: 66
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,10 +293,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 363
+    x: 336
     y: 73
-    width: 1101
-    height: 543
+    width: 1073
+    height: 573
   m_ViewDataDictionary: {fileID: 0}
   m_Mode: 1
   m_DataSourceIndex: 0
@@ -388,7 +388,9 @@ MonoBehaviour:
   m_InspectTab:
     m_Data:
       m_BundlePaths: []
-      m_BundleFolders: []
+      m_BundleFolders:
+      - path: C:/Users/T3rtu/Desktop/Bundle
+        m_ignoredFiles: []
     m_BundleTreeState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
@@ -461,10 +463,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 112}
-    m_SelectedIDs: 089a0000
-    m_LastClickedID: 39432
-    m_ExpandedIDs: 000000000696000008960000e0990000069a000000ca9a3b
+    scrollPos: {x: 0, y: 124}
+    m_SelectedIDs: 28f90000
+    m_LastClickedID: 63784
+    m_ExpandedIDs: 00000000bee90000c0e9000092ed00001afa000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +494,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000696000008960000
+    m_ExpandedIDs: 00000000bee90000c0e90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,7 +546,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 600}
+    m_ScrollPosition: {x: 0, y: 660}
     m_GridSize: 75
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -617,7 +619,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ea7da9ff1eec060022ec060026ec06002aec06002cec060032ec060034ec06003aec06003eec060042ec060044ec06004aec060052ec060058ec06005cec060062ec060066ec06006aec06006eec060072ec060076ec06007aec06007cec060080ec060086ec060010ed0600
+      m_ExpandedIDs: 343cd3fff682d3ff2483d3ff2e83d3ff5ea60200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -670,16 +672,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 0
-  m_SceneIsLit: 0
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 1
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -420.21664, y: -161.71004, z: 386.3469}
+    m_Target: {x: 255.39832, y: -117.981346, z: 149.29419}
     speed: 2
-    m_Value: {x: -420.21664, y: -161.71004, z: 386.3469}
+    m_Value: {x: 255.39832, y: -117.981346, z: 149.29419}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -725,20 +727,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15857178, y: 0.43769246, z: -0.079831034, w: -0.8814702}
+    m_Target: {x: -0.122253805, y: -0.49671438, z: 0.06804094, w: -0.85670245}
     speed: 2
-    m_Value: {x: -0.15759763, y: 0.43382174, z: -0.07846267, w: -0.8836319}
+    m_Value: {x: -0.1208532, y: -0.49804097, z: 0.06746881, w: -0.85603607}
   m_Size:
-    m_Target: 401.65497
+    m_Target: 394.23145
     speed: 2
-    m_Value: 401.65497
+    m_Value: 412.8078
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.9
-    m_SpeedNormalized: 0.46999997
+    m_Speed: 1
+    m_SpeedNormalized: 0.49999997
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
