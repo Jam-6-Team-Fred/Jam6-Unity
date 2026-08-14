@@ -19,43 +19,43 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-      _BumpMap:
+    - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 9aaaec80a039cfd4ab30bb0d57b797a3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-      _EmissionMap:
+    - _EmissionMap:
         m_Texture: {fileID: 2800000, guid: 478fcda46b174ba43bfe40d41de2f14d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0.75}
-      _MainTex:
+    - _MainTex:
         m_Texture: {fileID: 2800000, guid: f970f9d0efe1ace488c21d1031a56aca, type: 3}
         m_Scale: {x: 20, y: 20}
         m_Offset: {x: 0, y: 0}
-      _MetallicGlossMap:
+    - _MetallicGlossMap:
         m_Texture: {fileID: 2800000, guid: 86b8443f645b1c142a2d7c515ba81c67, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-      _BumpScale: 0.5
-      _Cutoff: 0.5
-      _DetailNormalMapScale: 1
-      _DstBlend: 0
-      _GlossMapScale: 1
-      _Glossiness: 0.84
-      _GlossyReflections: 1
-      _Metallic: 1
-      _Mode: 1
-      _OcclusionStrength: 1
-      _Parallax: 0.02
-      _SmoothnessTextureChannel: 0
-      _SpecularHighlights: 1
-      _SrcBlend: 1
-      _UVSec: 0
-      _VertexColorAlbedo: 0
-      _VertexOcclusion: 0
-      _ViewModel: 0
-      _ZWrite: 1
+    - _BumpScale: 0.5
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.84
+    - _GlossyReflections: 1
+    - _Metallic: 1
+    - _Mode: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VertexColorAlbedo: 0
+    - _VertexOcclusion: 0
+    - _ViewModel: 0
+    - _ZWrite: 1
     m_Colors:
-      _Color: {r: 1, g: 1, b: 1, a: 1}
-      _EmissionColor: {r: 0.24228095, g: 0.29154545, b: 2.4400616, a: 1}
-      _Glow: {r: 0.24228089, g: 0.29154545, b: 2.4400616, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0.24228095, g: 0.29154545, b: 2.4400616, a: 1}
+    - _Glow: {r: 0.24228089, g: 0.29154545, b: 2.4400616, a: 0}
