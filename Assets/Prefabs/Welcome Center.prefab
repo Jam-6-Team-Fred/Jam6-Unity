@@ -13970,8 +13970,8 @@ MonoBehaviour:
   _disableOnStart: 0
   _radius: 1
   _height: 24.94
-  _verticalSpeed: 15
-  _reverseSpeed: -10
+  _verticalSpeed: -15
+  _reverseSpeed: 10
   _inwardSpeed: 5
   _outwardSpeed: 5
   _exitLength: 2.33
