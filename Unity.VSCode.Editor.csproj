@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{da28f9ec-a487-2299-e7d0-ac5a8105a17f}</ProjectGuid>
+    <ProjectGuid>{7960a1f3-3e6d-94a5-065c-48e605b08d4f}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.VSCode.Editor</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_39;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;NET_STANDARD_2_0</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_39;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -237,20 +237,89 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
         <HintPath>S:\Unity\2019.4.39f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6\Library\PackageCache\com.unity.collab-proxy@1.14.16\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    <Reference Include="0Harmony">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6\Library\PackageCache\com.unity.collab-proxy@1.14.16\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    <Reference Include="Autofac">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Autofac.dll</HintPath>
     </Reference>
-    <Reference Include="log4netPlastic">
-        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6\Library\PackageCache\com.unity.collab-proxy@1.14.16\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    <Reference Include="com.rlabrecque.steamworks.net">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\com.rlabrecque.steamworks.net.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6\Library\PackageCache\com.unity.collab-proxy@1.14.16\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="EOS-SDK">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\EOS-SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Jam6">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Jam6.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Mdb">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Mono.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Pdb">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Mono.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Rocks">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Mono.Cecil.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoMod.RuntimeDetour">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\MonoMod.RuntimeDetour.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoMod.Utils">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\MonoMod.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio-Unity">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\NAudio-Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="NewHorizons">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\NewHorizons.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.Abstractions">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.Common">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.Logging">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper.Assets">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper.Events">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper.Input">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper.Interaction">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.Interaction.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModHelper.Menus">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModHelper.Menus.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.ModLoader">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.ModLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="OWML.Utils">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\OWML.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="XGamingRuntime">
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Assets\Dlls\XGamingRuntime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>S:\Outer Wilds modding\Unity stuff (scary)\Jam6-Unity-new\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>S:\Unity\2019.4.39f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -612,19 +681,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{b9301d74-ee9c-60d3-d31e-8b3a2313ddda}</Project>
+      <Project>{8c2ac14d-4d51-90f9-3892-cc4ef16537e4}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{c3ea6140-2412-6668-95a3-c9fa379efbeb}</Project>
+      <Project>{8a93925a-63f2-e56f-8b31-75da899628d9}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{ee74ed37-8dd0-ee85-978e-7b8381d77844}</Project>
+      <Project>{6c60f1fe-d74d-2068-3f76-78a8f6cbc420}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{f7982ac9-0e8a-f47f-5a95-d50a61fa53a9}</Project>
+      <Project>{4d20197f-694e-a39b-8f73-91b8e05f11e8}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
