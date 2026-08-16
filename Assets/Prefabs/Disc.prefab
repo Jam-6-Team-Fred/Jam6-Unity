@@ -578,6 +578,7 @@ GameObject:
   - component: {fileID: 5207415798747883958}
   - component: {fileID: 537733632371298172}
   - component: {fileID: 923073009670995822}
+  - component: {fileID: 8632916559086736533}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -646,6 +647,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8632916559086736533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 35464505958326913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &52498437726881010
 GameObject:
   m_ObjectHideFlags: 0
@@ -2497,6 +2512,7 @@ GameObject:
   - component: {fileID: 108684482663149305}
   - component: {fileID: 108684482663149287}
   - component: {fileID: 108684482663149304}
+  - component: {fileID: 5771343395199693131}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -2565,6 +2581,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5771343395199693131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108684482663149306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &108684483621872863
 GameObject:
   m_ObjectHideFlags: 0
@@ -2866,6 +2896,7 @@ GameObject:
   - component: {fileID: 108684484358645525}
   - component: {fileID: 108684484358645523}
   - component: {fileID: 108684484358645524}
+  - component: {fileID: 7349631246479817700}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -2934,6 +2965,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7349631246479817700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108684484358645526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &108684484422019820
 GameObject:
   m_ObjectHideFlags: 0
@@ -4774,6 +4819,7 @@ GameObject:
   - component: {fileID: 203781387688217540}
   - component: {fileID: 203781387688217538}
   - component: {fileID: 203781387688217541}
+  - component: {fileID: 6603085431467398765}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -4842,6 +4888,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &6603085431467398765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203781387688217543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &203781387749623357
 GameObject:
   m_ObjectHideFlags: 0
@@ -5060,6 +5120,7 @@ GameObject:
   - component: {fileID: 203781388469453352}
   - component: {fileID: 203781388469453366}
   - component: {fileID: 203781388469453353}
+  - component: {fileID: 7749957140111286644}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -5128,6 +5189,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7749957140111286644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 203781388469453355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &208793367128476806
 GameObject:
   m_ObjectHideFlags: 0
@@ -7873,6 +7948,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3409430234431676132}
   - component: {fileID: 4286568246205514008}
+  - component: {fileID: 6262908489215069802}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -7955,6 +8031,18 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &6262908489215069802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 439556165300270978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3764d89beefddfb963f973f9a1e29bad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &446734474063889858
 GameObject:
   m_ObjectHideFlags: 0
@@ -7967,6 +8055,7 @@ GameObject:
   - component: {fileID: 446734474063889856}
   - component: {fileID: 446734474063889857}
   - component: {fileID: 4088499489284073506}
+  - component: {fileID: 1489328339399422577}
   m_Layer: 0
   m_Name: CeilingLamp (2)
   m_TagString: Untagged
@@ -8051,6 +8140,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &1489328339399422577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 446734474063889858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &448234869551257133
 GameObject:
   m_ObjectHideFlags: 0
@@ -10667,6 +10770,7 @@ GameObject:
   - component: {fileID: 657156208646930998}
   - component: {fileID: 657156208646930984}
   - component: {fileID: 657156208646930999}
+  - component: {fileID: 7460491547428969104}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -10735,6 +10839,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7460491547428969104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 657156208646930997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &657156209564764176
 GameObject:
   m_ObjectHideFlags: 0
@@ -11138,6 +11256,7 @@ GameObject:
   - component: {fileID: 657156210438900698}
   - component: {fileID: 657156210438900700}
   - component: {fileID: 657156210438900699}
+  - component: {fileID: 7010994933121911862}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -11206,6 +11325,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7010994933121911862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 657156210438900697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &663119199267180514
 GameObject:
   m_ObjectHideFlags: 0
@@ -15857,6 +15990,7 @@ GameObject:
   - component: {fileID: 1046999269608518106}
   - component: {fileID: 1046999269608518107}
   - component: {fileID: 3461555578206198840}
+  - component: {fileID: 5660823359086498241}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -15941,6 +16075,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &5660823359086498241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046999269608518104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &1049377501713266302
 GameObject:
   m_ObjectHideFlags: 0
@@ -20771,6 +20919,7 @@ GameObject:
   - component: {fileID: 1100257295977309874}
   - component: {fileID: 1100257295977309877}
   - component: {fileID: 1100257295977309876}
+  - component: {fileID: 790684623531163511}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -20853,6 +21002,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &790684623531163511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100257295977309879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &1108199954992773166
 GameObject:
   m_ObjectHideFlags: 0
@@ -26913,6 +27076,7 @@ GameObject:
   - component: {fileID: 6851126284149959696}
   - component: {fileID: 1163630721844366042}
   - component: {fileID: 1990318462567119560}
+  - component: {fileID: 8641316114204044983}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -26981,6 +27145,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8641316114204044983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1670163513915582247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &1701888454031147937
 GameObject:
   m_ObjectHideFlags: 0
@@ -27730,6 +27908,7 @@ GameObject:
   - component: {fileID: 1750283088662773145}
   - component: {fileID: 1750283088662773151}
   - component: {fileID: 1750283088662773150}
+  - component: {fileID: 3165384820070346308}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -27798,6 +27977,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &3165384820070346308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1750283088662773144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &1750283089474181575
 GameObject:
   m_ObjectHideFlags: 0
@@ -29870,6 +30063,7 @@ GameObject:
   - component: {fileID: 1874507664682525070}
   - component: {fileID: 1874507664682525072}
   - component: {fileID: 1874507664682525071}
+  - component: {fileID: 5705321115135889596}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -29938,6 +30132,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5705321115135889596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874507664682525069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &1874507665610976168
 GameObject:
   m_ObjectHideFlags: 0
@@ -30236,6 +30444,7 @@ GameObject:
   - component: {fileID: 1874507665944012898}
   - component: {fileID: 1874507665944012900}
   - component: {fileID: 1874507665944012899}
+  - component: {fileID: 5280627072433198377}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -30304,6 +30513,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5280627072433198377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874507665944012897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &1874507666355814502
 GameObject:
   m_ObjectHideFlags: 0
@@ -33243,6 +33466,7 @@ GameObject:
   - component: {fileID: 2133182939291849314}
   - component: {fileID: 2133182939291849315}
   - component: {fileID: 2527870313882025856}
+  - component: {fileID: 1063694810438734239}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -33327,6 +33551,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &1063694810438734239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133182939291849312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &2139667578520396503
 GameObject:
   m_ObjectHideFlags: 0
@@ -34924,6 +35162,7 @@ GameObject:
   - component: {fileID: 2244728566343707710}
   - component: {fileID: 2244728566343707704}
   - component: {fileID: 2244728566343707705}
+  - component: {fileID: 8439010142033205213}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -34992,6 +35231,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8439010142033205213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2244728566343707711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &2245656798590302166
 GameObject:
   m_ObjectHideFlags: 0
@@ -39103,6 +39356,7 @@ GameObject:
   - component: {fileID: 2483331915888505667}
   - component: {fileID: 2483331915888505669}
   - component: {fileID: 2483331915888505668}
+  - component: {fileID: 7242465934733945623}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -39171,6 +39425,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7242465934733945623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2483331915888505666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &2498567232773780185
 GameObject:
   m_ObjectHideFlags: 0
@@ -40141,6 +40409,7 @@ GameObject:
   - component: {fileID: 2591376039889928631}
   - component: {fileID: 2591376039889928624}
   - component: {fileID: 2591376039889928625}
+  - component: {fileID: 1855564148334466838}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -40223,6 +40492,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &1855564148334466838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2591376039889928626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &2604895758981037299
 GameObject:
   m_ObjectHideFlags: 0
@@ -43756,6 +44039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 560919067001237013}
   - component: {fileID: 2857885322835007734}
+  - component: {fileID: 8506738798115291314}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -43838,6 +44122,18 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &8506738798115291314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2813646118880427619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3764d89beefddfb963f973f9a1e29bad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2839273543009665301
 GameObject:
   m_ObjectHideFlags: 0
@@ -44968,6 +45264,7 @@ GameObject:
   - component: {fileID: 2948219962848946613}
   - component: {fileID: 2948219962848946612}
   - component: {fileID: 1613542466823701591}
+  - component: {fileID: 5079539593492301893}
   m_Layer: 0
   m_Name: CeilingLamp (1)
   m_TagString: Untagged
@@ -45052,6 +45349,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &5079539593492301893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2948219962848946615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &2963518615962568537
 GameObject:
   m_ObjectHideFlags: 0
@@ -46355,6 +46666,7 @@ GameObject:
   - component: {fileID: 3019965971463808938}
   - component: {fileID: 3019965971463808940}
   - component: {fileID: 3019965971463808941}
+  - component: {fileID: 5166766678103783386}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -46423,6 +46735,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5166766678103783386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3019965971463808939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3039085926353394619
 GameObject:
   m_ObjectHideFlags: 0
@@ -57553,6 +57879,7 @@ GameObject:
   - component: {fileID: 7173912963786493129}
   - component: {fileID: 3223670388295346691}
   - component: {fileID: 2811869880557443601}
+  - component: {fileID: 205730052006474574}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -57621,6 +57948,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &205730052006474574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3150074457205786622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3158805655960600863
 GameObject:
   m_ObjectHideFlags: 0
@@ -57632,6 +57973,7 @@ GameObject:
   - component: {fileID: 3158805655960600862}
   - component: {fileID: 3158805655960600856}
   - component: {fileID: 3158805655960600857}
+  - component: {fileID: 6878238873074762863}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -57700,6 +58042,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &6878238873074762863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3158805655960600863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3158805656993182305
 GameObject:
   m_ObjectHideFlags: 0
@@ -61839,6 +62195,7 @@ GameObject:
   - component: {fileID: 3398113460008465714}
   - component: {fileID: 3398113460008465717}
   - component: {fileID: 3398113460008465716}
+  - component: {fileID: 3968980221411100729}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -61921,6 +62278,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &3968980221411100729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3398113460008465719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3398113461666714942
 GameObject:
   m_ObjectHideFlags: 0
@@ -63980,6 +64351,7 @@ GameObject:
   - component: {fileID: 3651188060109998013}
   - component: {fileID: 3651188060109998011}
   - component: {fileID: 3651188060109998010}
+  - component: {fileID: 941673738333469966}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -64048,6 +64420,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &941673738333469966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3651188060109998012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3651188060824835334
 GameObject:
   m_ObjectHideFlags: 0
@@ -64840,6 +65226,7 @@ GameObject:
   - component: {fileID: 3691039580420252282}
   - component: {fileID: 3691039580420252283}
   - component: {fileID: 988380473375870872}
+  - component: {fileID: 204716534886907505}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -64924,6 +65311,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &204716534886907505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3691039580420252280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &3732124332559289975
 GameObject:
   m_ObjectHideFlags: 0
@@ -65399,6 +65800,7 @@ GameObject:
   - component: {fileID: 3790345316092584926}
   - component: {fileID: 3790345316092584920}
   - component: {fileID: 3790345316092584921}
+  - component: {fileID: 4902383495033628060}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -65467,6 +65869,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &4902383495033628060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3790345316092584927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3790345316895999872
 GameObject:
   m_ObjectHideFlags: 0
@@ -65882,6 +66298,7 @@ GameObject:
   - component: {fileID: 3803240122426720005}
   - component: {fileID: 3803240122426720003}
   - component: {fileID: 3803240122426720002}
+  - component: {fileID: 4851933148557391152}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -65950,6 +66367,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &4851933148557391152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3803240122426720004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &3803240122789162430
 GameObject:
   m_ObjectHideFlags: 0
@@ -69557,6 +69988,7 @@ GameObject:
   - component: {fileID: 4051334482283176605}
   - component: {fileID: 4051334482283176603}
   - component: {fileID: 4051334482283176602}
+  - component: {fileID: 5874973394637852923}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -69625,6 +70057,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5874973394637852923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4051334482283176604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4051334482315075525
 GameObject:
   m_ObjectHideFlags: 0
@@ -69636,6 +70082,7 @@ GameObject:
   - component: {fileID: 4051334482315075522}
   - component: {fileID: 4051334482315075520}
   - component: {fileID: 4051334482315075523}
+  - component: {fileID: 4217724398248817481}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -69704,6 +70151,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &4217724398248817481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4051334482315075525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4051334482482883620
 GameObject:
   m_ObjectHideFlags: 0
@@ -72016,6 +72477,7 @@ GameObject:
   - component: {fileID: 4206290613390714406}
   - component: {fileID: 4206290613390714407}
   - component: {fileID: 347310685189688260}
+  - component: {fileID: 4112985690463237250}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -72100,6 +72562,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &4112985690463237250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4206290613390714404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &4219544189238894500
 GameObject:
   m_ObjectHideFlags: 0
@@ -75549,6 +76025,7 @@ GameObject:
   - component: {fileID: 4409979360605766510}
   - component: {fileID: 4409979360605766505}
   - component: {fileID: 4409979360605766504}
+  - component: {fileID: 4332050766792960858}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -75631,6 +76108,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &4332050766792960858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4409979360605766507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4409979362102682466
 GameObject:
   m_ObjectHideFlags: 0
@@ -77298,6 +77789,7 @@ GameObject:
   - component: {fileID: 4529011491479001339}
   - component: {fileID: 4529011491479001340}
   - component: {fileID: 4529011491479001341}
+  - component: {fileID: 5912433568619335582}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -77380,6 +77872,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &5912433568619335582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4529011491479001342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4529011491962992887
 GameObject:
   m_ObjectHideFlags: 0
@@ -81348,6 +81854,7 @@ GameObject:
   - component: {fileID: 4775640737359035188}
   - component: {fileID: 4775640737359035186}
   - component: {fileID: 4775640737359035189}
+  - component: {fileID: 218819443788857440}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -81416,6 +81923,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &218819443788857440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4775640737359035191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4775640737446081243
 GameObject:
   m_ObjectHideFlags: 0
@@ -81427,6 +81948,7 @@ GameObject:
   - component: {fileID: 4775640737446081240}
   - component: {fileID: 4775640737446081222}
   - component: {fileID: 4775640737446081241}
+  - component: {fileID: 2411965091080099434}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -81495,6 +82017,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &2411965091080099434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4775640737446081243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4776106702798475928
 GameObject:
   m_ObjectHideFlags: 0
@@ -81766,6 +82302,7 @@ GameObject:
   - component: {fileID: 4843995109620171255}
   - component: {fileID: 4843995109620171248}
   - component: {fileID: 4843995109620171249}
+  - component: {fileID: 4322063611853655154}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -81848,6 +82385,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &4322063611853655154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4843995109620171250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4843995110213083643
 GameObject:
   m_ObjectHideFlags: 0
@@ -84024,6 +84575,7 @@ GameObject:
   - component: {fileID: 4997234306544525763}
   - component: {fileID: 4997234306544525789}
   - component: {fileID: 4997234306544525762}
+  - component: {fileID: 5065564489180812461}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -84092,6 +84644,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &5065564489180812461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4997234306544525760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4997234307657612782
 GameObject:
   m_ObjectHideFlags: 0
@@ -84288,6 +84854,7 @@ GameObject:
   - component: {fileID: 4997234307996821551}
   - component: {fileID: 4997234307996821545}
   - component: {fileID: 4997234307996821550}
+  - component: {fileID: 8823240063763044987}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -84356,6 +84923,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8823240063763044987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4997234307996821548}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &4997234308068582870
 GameObject:
   m_ObjectHideFlags: 0
@@ -87187,6 +87768,7 @@ GameObject:
   - component: {fileID: 5159213836458845722}
   - component: {fileID: 5159213836458845724}
   - component: {fileID: 5159213836458845725}
+  - component: {fileID: 2799984925730216270}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -87255,6 +87837,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &2799984925730216270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5159213836458845723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &5160453767592248475
 GameObject:
   m_ObjectHideFlags: 0
@@ -89934,6 +90530,7 @@ GameObject:
   - component: {fileID: 5591476305892311620}
   - component: {fileID: 5053577482491179606}
   - component: {fileID: 7569140162804402363}
+  - component: {fileID: 1764017850421398500}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -90016,6 +90613,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: cc39ddca3959892409be176fca2b98e7, type: 2}
+--- !u!114 &1764017850421398500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373776456704585657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &5380577859851118116
 GameObject:
   m_ObjectHideFlags: 0
@@ -90380,6 +90991,7 @@ GameObject:
   - component: {fileID: 5400492276393218572}
   - component: {fileID: 5400492276393218573}
   - component: {fileID: 8393651014417514478}
+  - component: {fileID: 2063097047743466356}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -90464,6 +91076,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &2063097047743466356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5400492276393218574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &5405158476364943723
 GameObject:
   m_ObjectHideFlags: 0
@@ -96439,6 +97065,7 @@ GameObject:
   - component: {fileID: 5898132166526663107}
   - component: {fileID: 5898132166526663109}
   - component: {fileID: 5898132166526663106}
+  - component: {fileID: 93822470855567848}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -96507,6 +97134,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &93822470855567848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5898132166526663104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &5898132166599603258
 GameObject:
   m_ObjectHideFlags: 0
@@ -96620,6 +97261,7 @@ GameObject:
   - component: {fileID: 5898132167049916463}
   - component: {fileID: 5898132167049916465}
   - component: {fileID: 5898132167049916462}
+  - component: {fileID: 7505401870117650524}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -96688,6 +97330,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7505401870117650524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5898132167049916460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &5903766628571258553
 GameObject:
   m_ObjectHideFlags: 0
@@ -100418,6 +101074,7 @@ GameObject:
   - component: {fileID: 6162532907240983124}
   - component: {fileID: 6162532907240983123}
   - component: {fileID: 6162532907240983122}
+  - component: {fileID: 6508281327907159134}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -100500,6 +101157,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &6508281327907159134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6162532907240983121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &6165998484864462170
 GameObject:
   m_ObjectHideFlags: 0
@@ -102932,6 +103603,7 @@ GameObject:
   - component: {fileID: 6291564016144595381}
   - component: {fileID: 6291564016144595379}
   - component: {fileID: 6291564016144595378}
+  - component: {fileID: 7690182505304111464}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -103000,6 +103672,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7690182505304111464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6291564016144595380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &6292427278967739054
 GameObject:
   m_ObjectHideFlags: 0
@@ -107523,6 +108209,7 @@ GameObject:
   - component: {fileID: 6597008030552908104}
   - component: {fileID: 6597008030552908111}
   - component: {fileID: 6597008030552908110}
+  - component: {fileID: 2323510244620290821}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -107605,6 +108292,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &2323510244620290821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6597008030552908109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &6597276821473085324
 GameObject:
   m_ObjectHideFlags: 0
@@ -112515,6 +113216,7 @@ GameObject:
   - component: {fileID: 6998274271541173347}
   - component: {fileID: 6998274271541173349}
   - component: {fileID: 6998274271541173348}
+  - component: {fileID: 6405672739126690890}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -112583,6 +113285,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &6405672739126690890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6998274271541173346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &6998274272339884093
 GameObject:
   m_ObjectHideFlags: 0
@@ -112894,6 +113610,7 @@ GameObject:
   - component: {fileID: 7003892889326803512}
   - component: {fileID: 7003892889326803519}
   - component: {fileID: 7003892889326803518}
+  - component: {fileID: 2254626738186690664}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -112976,6 +113693,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &2254626738186690664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7003892889326803517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7003892891024914996
 GameObject:
   m_ObjectHideFlags: 0
@@ -113784,6 +114515,7 @@ GameObject:
   - component: {fileID: 7041686520341236807}
   - component: {fileID: 7041686520341236801}
   - component: {fileID: 7041686520341236800}
+  - component: {fileID: 432954847326985831}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -113852,6 +114584,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &432954847326985831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7041686520341236806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7073119799941690639
 GameObject:
   m_ObjectHideFlags: 0
@@ -116403,6 +117149,7 @@ GameObject:
   - component: {fileID: 7280008163731809938}
   - component: {fileID: 7280008163731809932}
   - component: {fileID: 7280008163731809939}
+  - component: {fileID: 6040537748400445434}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -116471,6 +117218,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &6040537748400445434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7280008163731809937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7280008164828084927
 GameObject:
   m_ObjectHideFlags: 0
@@ -116769,6 +117530,7 @@ GameObject:
   - component: {fileID: 7280008165295222654}
   - component: {fileID: 7280008165295222648}
   - component: {fileID: 7280008165295222655}
+  - component: {fileID: 8298479405424207544}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -116837,6 +117599,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8298479405424207544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7280008165295222653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7280008165438588794
 GameObject:
   m_ObjectHideFlags: 0
@@ -121258,6 +122034,7 @@ GameObject:
   - component: {fileID: 7604668608280269915}
   - component: {fileID: 7604668608280269916}
   - component: {fileID: 7604668608280269917}
+  - component: {fileID: 7268185588697500170}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -121340,6 +122117,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &7268185588697500170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7604668608280269918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7606939889109114643
 GameObject:
   m_ObjectHideFlags: 0
@@ -121352,6 +122143,7 @@ GameObject:
   - component: {fileID: 7606939889109114646}
   - component: {fileID: 7606939889109114641}
   - component: {fileID: 7606939889109114640}
+  - component: {fileID: 5816825116520710402}
   m_Layer: 0
   m_Name: RailingLamp
   m_TagString: Untagged
@@ -121434,6 +122226,20 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 132f5c16951bbc34abfd95fbc96de6c4, type: 2}
+--- !u!114 &5816825116520710402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7606939889109114643}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7606939890638405402
 GameObject:
   m_ObjectHideFlags: 0
@@ -121754,6 +122560,7 @@ GameObject:
   - component: {fileID: 7981409040885372288}
   - component: {fileID: 7312344811278001554}
   - component: {fileID: 5355272327778049919}
+  - component: {fileID: 2304479997558345641}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -121836,6 +122643,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: cc39ddca3959892409be176fca2b98e7, type: 2}
+--- !u!114 &2304479997558345641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7622410643258357885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7633111464478816234
 GameObject:
   m_ObjectHideFlags: 0
@@ -126646,6 +127467,7 @@ GameObject:
   - component: {fileID: 2794811364205728685}
   - component: {fileID: 7636757891775427943}
   - component: {fileID: 7080280070637110645}
+  - component: {fileID: 4099728068490074064}
   m_Layer: 0
   m_Name: Structure_NOM_Doorway_Fancy_Lamp
   m_TagString: Untagged
@@ -126714,6 +127536,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &4099728068490074064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7994067405182408858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &7996006231690435549
 GameObject:
   m_ObjectHideFlags: 0
@@ -127030,7 +127866,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8046910946609458558}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.413, y: 1.906, z: 0.536}
+  m_LocalPosition: {x: 1.37, y: 1.906, z: 0.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5578554584383024723}
@@ -127199,6 +128035,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8076822101827463549}
   - component: {fileID: 6221358879127764479}
+  - component: {fileID: 6762124184690982533}
   m_Layer: 0
   m_Name: City
   m_TagString: Untagged
@@ -127300,7 +128137,77 @@ MonoBehaviour:
   - {fileID: 3424227105180291586}
   - {fileID: 9212393427639461608}
   - {fileID: 7333252072600341545}
-  _renderers: []
+  - {fileID: 6262908489215069802}
+  - {fileID: 8506738798115291314}
+  _renderers:
+  - {fileID: 4099728068490074064}
+  - {fileID: 5816825116520710402}
+  - {fileID: 7268185588697500170}
+  - {fileID: 3165384820070346308}
+  - {fileID: 4902383495033628060}
+  - {fileID: 205730052006474574}
+  - {fileID: 3968980221411100729}
+  - {fileID: 1855564148334466838}
+  - {fileID: 204716534886907505}
+  - {fileID: 6040537748400445434}
+  - {fileID: 8298479405424207544}
+  - {fileID: 5705321115135889596}
+  - {fileID: 5280627072433198377}
+  - {fileID: 1063694810438734239}
+  - {fileID: 8632916559086736533}
+  - {fileID: 5166766678103783386}
+  - {fileID: 8439010142033205213}
+  - {fileID: 1139491043391688953}
+  - {fileID: 432954847326985831}
+  - {fileID: 4851933148557391152}
+  - {fileID: 2969076821854612096}
+  - {fileID: 7242465934733945623}
+  - {fileID: 2799984925730216270}
+  - {fileID: 941673738333469966}
+  - {fileID: 4112985690463237250}
+  - {fileID: 2323510244620290821}
+  - {fileID: 5874973394637852923}
+  - {fileID: 4217724398248817481}
+  - {fileID: 7505401870117650524}
+  - {fileID: 93822470855567848}
+  - {fileID: 7716560991565184712}
+  - {fileID: 2188228787332761783}
+  - {fileID: 6508281327907159134}
+  - {fileID: 7460491547428969104}
+  - {fileID: 7010994933121911862}
+  - {fileID: 5660823359086498241}
+  - {fileID: 1764017850421398500}
+  - {fileID: 2304479997558345641}
+  - {fileID: 6405672739126690890}
+  - {fileID: 6878238873074762863}
+  - {fileID: 2254626738186690664}
+  - {fileID: 5912433568619335582}
+  - {fileID: 4332050766792960858}
+  - {fileID: 5771343395199693131}
+  - {fileID: 7349631246479817700}
+  - {fileID: 6017667059560995228}
+  - {fileID: 7749957140111286644}
+  - {fileID: 6603085431467398765}
+  - {fileID: 2063097047743466356}
+  - {fileID: 5065564489180812461}
+  - {fileID: 8823240063763044987}
+  - {fileID: 1489328339399422577}
+  - {fileID: 5079539593492301893}
+  - {fileID: 790684623531163511}
+  - {fileID: 4322063611853655154}
+--- !u!114 &6762124184690982533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8076822101827463550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1458008821, guid: ef85f6c0026bed8429e867fee64d56a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lightController: {fileID: 6221358879127764479}
 --- !u!1 &8076822101860041951
 GameObject:
   m_ObjectHideFlags: 0
@@ -127310,6 +128217,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8076822101860041950}
+  - component: {fileID: 2469743076168516593}
   m_Layer: 0
   m_Name: Past
   m_TagString: Untagged
@@ -127345,6 +128253,18 @@ Transform:
   m_Father: {fileID: 8076822103213573922}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2469743076168516593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8076822101860041951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 490903642, guid: ef85f6c0026bed8429e867fee64d56a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8076822101949861196
 GameObject:
   m_ObjectHideFlags: 0
@@ -128721,6 +129641,7 @@ GameObject:
   - component: {fileID: 8114477599424100009}
   - component: {fileID: 8114477599424100011}
   - component: {fileID: 8114477599424100008}
+  - component: {fileID: 2188228787332761783}
   m_Layer: 0
   m_Name: doorway_lamp_Outside
   m_TagString: Untagged
@@ -128789,6 +129710,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &2188228787332761783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8114477599424100014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &8114477599463328759
 GameObject:
   m_ObjectHideFlags: 0
@@ -128800,6 +129735,7 @@ GameObject:
   - component: {fileID: 8114477599463328758}
   - component: {fileID: 8114477599463328752}
   - component: {fileID: 8114477599463328753}
+  - component: {fileID: 7716560991565184712}
   m_Layer: 0
   m_Name: doorway_lamp_Inside
   m_TagString: Untagged
@@ -128868,6 +129804,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &7716560991565184712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8114477599463328759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &8114477599565262461
 GameObject:
   m_ObjectHideFlags: 0
@@ -130542,8 +131492,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8271227869954969985}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.140001, z: 0}
+  m_LocalRotation: {x: 1, y: 0, z: 0, w: -0.00000004371139}
+  m_LocalPosition: {x: 0.00000047683716, y: 0.00000071525574, z: -0.00000023841858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8271227869955030279}
@@ -133021,8 +133971,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8271227869955059960}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.14, z: 0}
+  m_LocalRotation: {x: 1, y: 0, z: 0, w: -0.00000004371139}
+  m_LocalPosition: {x: 0.00000047683716, y: 0.00000071525574, z: -0.00000023841858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8271227869955030279}
@@ -135234,8 +136184,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8271227869955059961}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.14, z: 0}
+  m_LocalRotation: {x: 1, y: 0, z: 0, w: -0.00000004371139}
+  m_LocalPosition: {x: 0.00000047683716, y: 0.00000071525574, z: -0.00000023841858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8271227869955030279}
@@ -137753,8 +138703,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8271227869955085277}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.140001, z: 0}
+  m_LocalRotation: {x: 1, y: 0, z: 0, w: -0.00000004371139}
+  m_LocalPosition: {x: 0.00000047683716, y: 0.00000071525574, z: -0.00000023841858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8271227869955030279}
@@ -142052,6 +143002,7 @@ GameObject:
   - component: {fileID: 8420960101463224799}
   - component: {fileID: 8420960101463224793}
   - component: {fileID: 8420960101463224792}
+  - component: {fileID: 2969076821854612096}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -142120,6 +143071,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &2969076821854612096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8420960101463224798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &8420960102262412673
 GameObject:
   m_ObjectHideFlags: 0
@@ -144035,6 +145000,7 @@ GameObject:
   - component: {fileID: 8519615637862491639}
   - component: {fileID: 8519615637862491633}
   - component: {fileID: 8519615637862491632}
+  - component: {fileID: 1139491043391688953}
   m_Layer: 0
   m_Name: WallTorch_Lamp
   m_TagString: Untagged
@@ -144103,6 +145069,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &1139491043391688953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8519615637862491638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 0
+  _convertToGamma: 0
 --- !u!1 &8519615638492526412
 GameObject:
   m_ObjectHideFlags: 0
@@ -144993,6 +145973,7 @@ GameObject:
   - component: {fileID: 8543151594944720134}
   - component: {fileID: 8543151594944720135}
   - component: {fileID: 5188433881353060580}
+  - component: {fileID: 6017667059560995228}
   m_Layer: 0
   m_Name: CeilingLamp
   m_TagString: Untagged
@@ -145077,6 +146058,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 2c862770f5d241d4d9018bb8d9615105, type: 2}
+--- !u!114 &6017667059560995228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8543151594944720132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b69738f164a5a2451d76a672bae5943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _emissiveMaterialIndex: 1
+  _convertToGamma: 0
 --- !u!1 &8544396446715445682
 GameObject:
   m_ObjectHideFlags: 0
@@ -153014,6 +154009,126 @@ PrefabInstance:
         type: 3}
       propertyPath: InitialModule.startLifetime.scalar
       value: 56.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768025648, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0000003379717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768025648, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768025648, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000030853466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768025648, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768025648, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768043267, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0000003379717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768043267, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768043267, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000030853466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768043267, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768043267, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0000003379717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000030853466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256794, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0000003379717
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000030853466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2145712203768256797, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3364666938931460795, guid: ed65d16ce54a2304c8aa302f397b4f26,
         type: 3}
