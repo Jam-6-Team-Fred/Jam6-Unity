@@ -9406,7 +9406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 651bf6a97f095be1000b67022b3d85c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _layer: 20
+  _layer: -20
   _priority: 5
   _density: 100
   _fluidType: 3
@@ -24543,7 +24543,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6895176424919135422}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0000026710331, y: 24.940014, z: 0.000002861023}
+  m_LocalPosition: {x: 0, y: 80, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6895176424919038273}
@@ -24632,7 +24632,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 24.94
+      scalar: 80
       minScalar: 0.0001
       maxCurve:
         serializedVersion: 2
@@ -26756,7 +26756,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6895176424919135423}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0000026710331, y: 24.940014, z: 0.000002861023}
+  m_LocalPosition: {x: 0, y: 80, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6895176424919038273}
@@ -26845,7 +26845,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 24.94
+      scalar: 80
       minScalar: 0.0001
       maxCurve:
         serializedVersion: 2
