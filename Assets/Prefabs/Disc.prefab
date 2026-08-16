@@ -4576,7 +4576,7 @@ MonoBehaviour:
   _renderers: []
   _particleSystems: []
   _lights: []
-  DisplayName: SchedulingItemDisplayName
+  DisplayName: 
   Droppable: 1
   PickupAudio: 0
   DropAudio: 0
@@ -24372,6 +24372,98 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1712205092846467043, guid: 7be66829d9b2a9d478da0998ab27d89b, type: 3}
+--- !u!1 &1423042874896363202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2711258203524729917}
+  - component: {fileID: 3676531281708715453}
+  m_Layer: 0
+  m_Name: Lake Spotlight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2711258203524729917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423042874896363202}
+  m_LocalRotation: {x: -0.70710677, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -131.42, y: -7.35, z: -143.54}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8076822103214335138}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 0}
+--- !u!108 &3676531281708715453
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423042874896363202}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 0
+  m_Shape: 0
+  m_Color: {r: 0, g: 0.9155476, b: 1, a: 1}
+  m_Intensity: 0
+  m_Range: 74.7
+  m_SpotAngle: 21.5
+  m_InnerSpotAngle: 21.5
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: 3
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 1.75
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 1
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1 &1423061546309110229
 GameObject:
   m_ObjectHideFlags: 0
@@ -44577,7 +44669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5401734086157300138
 Transform:
   m_ObjectHideFlags: 0
@@ -128895,6 +128987,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8076822103214335138}
+  - component: {fileID: 6912885170522874047}
   m_Layer: 0
   m_Name: Lake
   m_TagString: Untagged
@@ -128918,9 +129011,29 @@ Transform:
   - {fileID: 5470384470841262648}
   - {fileID: 4071557248205060231}
   - {fileID: 6169311527846220071}
+  - {fileID: 2711258203524729917}
   m_Father: {fileID: 8076822101860041950}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6912885170522874047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8076822103214335139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 340081161, guid: ef85f6c0026bed8429e867fee64d56a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spotLight: {fileID: 1423042874896363202}
+  lakeSurface: {fileID: 993562297263456394}
+  normalColor: {r: 0.23921569, g: 0.32941177, b: 0.31764707, a: 1}
+  shiningColor: {r: 0.25882354, g: 0.7176471, b: 0.654902, a: 1}
+  durationToBlue: 10
+  durationToShine: 5
+  endSpotLightIntensity: 5
 --- !u!1 &8076822103229417458
 GameObject:
   m_ObjectHideFlags: 0
@@ -153352,7 +153465,7 @@ PrefabInstance:
     - target: {fileID: 81936490698830251, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}
       propertyPath: DisplayName
-      value: Lights
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 81936490698830254, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}
@@ -153597,7 +153710,7 @@ PrefabInstance:
     - target: {fileID: 81936490698830251, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}
       propertyPath: DisplayName
-      value: Rain
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 81936490698830254, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}
@@ -154557,7 +154670,7 @@ PrefabInstance:
     - target: {fileID: 81936490698830251, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}
       propertyPath: DisplayName
-      value: ExpoHall
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 81936490698830254, guid: c7e1d6ce54fe44e4aa88030d0c9ad5fd,
         type: 3}

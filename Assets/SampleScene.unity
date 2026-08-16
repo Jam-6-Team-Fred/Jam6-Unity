@@ -496,7 +496,7 @@ MonoBehaviour:
   _renderers: []
   _particleSystems: []
   _lights: []
-  DisplayName: SchedulingItemDisplayName
+  DisplayName: 
   Droppable: 1
   PickupAudio: 0
   DropAudio: 0
@@ -716,7 +716,7 @@ MonoBehaviour:
   _renderers: []
   _particleSystems: []
   _lights: []
-  DisplayName: SchedulingItemDisplayName
+  DisplayName: 
   Droppable: 1
   PickupAudio: 0
   DropAudio: 0
@@ -849,15 +849,70 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b42917b789c76744ea1e1a62fc4bd5d0, type: 2}
+    - target: {fileID: 1390926724097993208, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: nameInXML
+      value: $TeamFred.Lights
+      objectReference: {fileID: 0}
+    - target: {fileID: 1390926724097993208, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: DisplayName
+      value: $TeamFred.Lights
+      objectReference: {fileID: 0}
     - target: {fileID: 2251089729211024819, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b42917b789c76744ea1e1a62fc4bd5d0, type: 2}
+    - target: {fileID: 2879022960654598421, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015462262069942577, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3336090787352983000, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: nameInXML
+      value: $TeamFred.Rain
+      objectReference: {fileID: 0}
+    - target: {fileID: 3336090787352983000, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: DisplayName
+      value: $TeamFred.Rain
+      objectReference: {fileID: 0}
     - target: {fileID: 3427159645913266767, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
       propertyPath: m_RootOrder
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676531281708715453, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676531281708715453, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.9137254
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676531281708715453, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676531281708715453, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3678312065009635804, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3902026014252417531, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
@@ -1054,6 +1109,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6582378175202466422, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6670358781255239599, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
       propertyPath: m_IsActive
@@ -1143,6 +1203,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Disc
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164703857044096428, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8269309871904676069, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
@@ -1268,6 +1333,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8579435125647063936, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: nameInXML
+      value: $TeamFred.ExpoHall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8579435125647063936, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: DisplayName
+      value: $TeamFred.ExpoHall
       objectReference: {fileID: 0}
     - target: {fileID: 8831703823132278333, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
