@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _layer: 3
-  _priority: 0
+  _priority: 1
   _alignmentPriority: 0
   _inheritable: 1
   _fieldDirection: {x: 0, y: -1, z: 0}

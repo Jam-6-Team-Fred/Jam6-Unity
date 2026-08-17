@@ -42,6 +42,7 @@ TagManager:
   - PrisonerDetector
   - Raft
   - DreamLanternDetector
+  - MAST_Holder
   layers:
   - Default
   - TransparentFX
