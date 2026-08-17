@@ -97013,7 +97013,7 @@ GameObject:
   - component: {fileID: 4200995352124597731}
   - component: {fileID: 2664333922454834581}
   - component: {fileID: 5699389165061288706}
-  - component: {fileID: 6110571329722691094}
+  - component: {fileID: 5915564755006435050}
   m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
@@ -97082,8 +97082,8 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!136 &6110571329722691094
-CapsuleCollider:
+--- !u!64 &5915564755006435050
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -97092,10 +97092,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &5783638523053713138
 GameObject:
   m_ObjectHideFlags: 0
@@ -157199,15 +157199,25 @@ PrefabInstance:
       propertyPath: _height
       value: 78.2
       objectReference: {fileID: 0}
+    - target: {fileID: 6895176424919390734, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 78.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895176424919393295, guid: ed65d16ce54a2304c8aa302f397b4f26,
+        type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 78.2
+      objectReference: {fileID: 0}
     - target: {fileID: 6895176424919394227, guid: ed65d16ce54a2304c8aa302f397b4f26,
         type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 80
+      value: 78.2
       objectReference: {fileID: 0}
     - target: {fileID: 6895176424919394228, guid: ed65d16ce54a2304c8aa302f397b4f26,
         type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 80
+      value: 78.2
       objectReference: {fileID: 0}
     - target: {fileID: 6895176424919394439, guid: ed65d16ce54a2304c8aa302f397b4f26,
         type: 3}
