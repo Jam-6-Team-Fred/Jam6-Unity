@@ -24428,9 +24428,9 @@ CapsuleCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 1
-  m_Height: 80
+  m_Height: 77.32
   m_Direction: 1
-  m_Center: {x: 0, y: 40, z: 0}
+  m_Center: {x: 0, y: 38.66, z: 0}
 --- !u!114 &6895176424919303766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24451,7 +24451,7 @@ MonoBehaviour:
   _allowShipAutoroll: 0
   _disableOnStart: 0
   _radius: 1
-  _height: 80
+  _height: 77.32
   _verticalSpeed: -30
   _reverseSpeed: 20
   _inwardSpeed: 5
