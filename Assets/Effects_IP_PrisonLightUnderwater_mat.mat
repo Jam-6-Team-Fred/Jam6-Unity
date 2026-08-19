@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Effects_IP_PrisonLightUnderwater_mat
+  m_Shader: {fileID: 4800000, guid: 8c9f6f1161d56314484a3c587afb0ea2, type: 2}
+  m_ShaderKeywords: _CAMERAFADE _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _AngleFade: 1.5
+      _CameraFade: 1
+      _CameraFadeDist: 10
+      _FogDensity: 0.05
+      _FogExp: 0.25
+      _GeomFade: 0
+      _GeomFadeDist: 2
+      _Stencil: -1
+      _Stencil_readmask: 0
+      _Stencil_refvalue: 0
+    m_Colors:
+      _Color: {r: 1, g: 0.9130987, b: 0.6938719, a: 0.2}
+      _FogColor: {r: 0.003921569, g: 0.06666667, b: 0.121568635, a: 1}
