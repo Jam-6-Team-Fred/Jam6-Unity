@@ -23458,7 +23458,7 @@ MonoBehaviour:
   _reverseSpeed: -15
   _inwardSpeed: 5
   _outwardSpeed: 5
-  _exitLength: 2.43
+  _exitLength: 1.72
   _exitOffset: 0
   _fadeBeamIfPlayerInside: 0
   _ringParticleController: {fileID: 9064475726104419622}

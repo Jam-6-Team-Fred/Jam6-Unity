@@ -87,7 +87,7 @@ MonoBehaviour:
   _layerMask: -1
   _pointChecksOnly: 1
   _center: {x: 0, y: 0, z: 0}
-  _size: {x: 134.9, y: 20, z: 259.5}
+  _size: {x: 134.9, y: 21, z: 259.5}
 --- !u!114 &8287596552119591321
 MonoBehaviour:
   m_ObjectHideFlags: 0
