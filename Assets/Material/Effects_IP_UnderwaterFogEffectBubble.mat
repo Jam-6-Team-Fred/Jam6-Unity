@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Effects_IP_UnderwaterFogEffectBubble
   m_Shader: {fileID: 4800000, guid: b95ac52ae0c3e914f94bb1262eae64f3, type: 2}
-  m_ShaderKeywords:
+  m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -19,25 +19,25 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-      _DistortTex:
+    - _DistortTex:
         m_Texture: {fileID: 2800000, guid: 3f065c2288647d842a464bad3382f96a, type: 3}
         m_Scale: {x: 4, y: 4}
         m_Offset: {x: 0, y: -1}
-      _HeightCurveTex:
+    - _HeightCurveTex:
         m_Texture: {fileID: 2800000, guid: 064ee8057e5eb774fba91616d7de556a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-      _CylinderRadiusPadding: 1
-      _DistortMag: 0.02
-      _FogDensity: 0.04
-      _FogExp: 0.5
-      _InnerRadiusFinal: 285
-      _InnerRadiusHigh: 240
-      _InnerRadiusLow: 300
-      _RampEndDegrees: 310
-      _RampStartDegrees: 260
-      _UVFade: 0.2
+    - _CylinderRadiusPadding: 1
+    - _DistortMag: 0.02
+    - _FogDensity: 0.1
+    - _FogExp: 0.5
+    - _InnerRadiusFinal: 285
+    - _InnerRadiusHigh: 240
+    - _InnerRadiusLow: 300
+    - _RampEndDegrees: 310
+    - _RampStartDegrees: 260
+    - _UVFade: 0.2
     m_Colors:
-      _Color: {r: 1, g: 1, b: 1, a: 1}
-      _FogColor: {r: 0.035908997, g: 0.104358815, b: 0.14899999, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FogColor: {r: 0.035908997, g: 0.104358815, b: 0.14899999, a: 1}

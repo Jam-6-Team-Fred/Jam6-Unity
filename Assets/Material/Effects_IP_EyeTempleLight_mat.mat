@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Effects_IP_PrisonLightUnderwater_mat
-  m_Shader: {fileID: 4800000, guid: 8c9f6f1161d56314484a3c587afb0ea2, type: 2}
-  m_ShaderKeywords: _CAMERAFADE _EMISSION
+  m_Name: Effects_IP_EyeTempleLight_mat
+  m_Shader: {fileID: 4800000, guid: dae6691eb7de75e4da2eb1f494d1cbd4, type: 2}
+  m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -19,21 +19,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-      _MainTex:
+    - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-      _AngleFade: 1.5
-      _CameraFade: 1
-      _CameraFadeDist: 10
-      _FogDensity: 0.05
-      _FogExp: 0.25
-      _GeomFade: 0
-      _GeomFadeDist: 2
-      _Stencil: -1
-      _Stencil_readmask: 0
-      _Stencil_refvalue: 0
+    - _AngleFade: 2.5
+    - _CameraFade: 0
+    - _CameraFadeDist: 100
+    - _GeomFade: 0
+    - _GeomFadeDist: 10
+    - _Stencil: 53
+    - _Stencil_readmask: 48
+    - _Stencil_refvalue: 0
     m_Colors:
-      _Color: {r: 1, g: 0.9130987, b: 0.6938719, a: 0.2}
-      _FogColor: {r: 0.003921569, g: 0.06666667, b: 0.121568635, a: 1}
+    - _Color: {r: 7.3204494, g: 17.698807, b: 16.216185, a: 0.15686275}

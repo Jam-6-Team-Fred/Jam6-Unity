@@ -2290,7 +2290,7 @@ MonoBehaviour:
   _height: 43.7
   _verticalSpeed: 5
   _reverseSpeed: -10
-  _inwardSpeed: 1
+  _inwardSpeed: 0
   _outwardSpeed: 0
   _exitLength: 0
   _exitOffset: 0
