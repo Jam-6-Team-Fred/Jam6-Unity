@@ -1928,6 +1928,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 8113187094962676762, guid: 2c2280c3b49125a4cb14448f6c154131,
+        type: 3}
+      propertyPath: m_Name
+      value: VolLight Below Water
+      objectReference: {fileID: 0}
     - target: {fileID: 8156227501362724164, guid: 2c2280c3b49125a4cb14448f6c154131,
         type: 3}
       propertyPath: m_Materials.Array.data[0]

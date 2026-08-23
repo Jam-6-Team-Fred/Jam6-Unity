@@ -26552,7 +26552,7 @@ MonoBehaviour:
   m_Script: {fileID: -2038998578, guid: ef85f6c0026bed8429e867fee64d56a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tunnelCovers: {fileID: 6414027457779206078}
+  tunnelCovers: {fileID: 0}
   signalDuration: 60
   amountToMoveY: 1.5
   durationToMoveY: 2.5
