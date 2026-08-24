@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Props_NOM_LargeTractorBeam_mat
   m_Shader: {fileID: 4800000, guid: 8c5f9207b9a60534ab85854f2745d534, type: 2}
-  m_ShaderKeywords: _VERTEXALBEDO
+  m_ShaderKeywords: _VERTEXALBEDO _VERTEXOCCLUSION
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -128,7 +128,7 @@ Material:
     - _VertexAlbedo: 1
     - _VertexColorAlbedo: 0
     - _VertexColorSpecular: 0
-    - _VertexOcclusion: 0
+    - _VertexOcclusion: 1
     - _ViewModel: 0
     - _ZWrite: 1
     m_Colors:
