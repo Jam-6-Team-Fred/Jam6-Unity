@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain_TH_Water_v2_mat
+  m_Shader: {fileID: 4800000, guid: 209c763606ff8254a85401c755507b5c, type: 2}
+  m_ShaderKeywords: _HEIGHTMAP_SECONDARY _HEIGHTMAP_TERTIARY _VERTEXOCCLUSION
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ExtinctionTex:
+        m_Texture: {fileID: 2800000, guid: 1a0dac685b3c85c42b0eae98014aead8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Heightmap:
+        m_Texture: {fileID: 2800000, guid: 9c175fd435efa5448bfc3a20dd2a5d74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Heightmap2:
+        m_Texture: {fileID: 2800000, guid: 28141eec4a5d22a48b4d0807bb31b468, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Heightmap3:
+        m_Texture: {fileID: 2800000, guid: 28141eec4a5d22a48b4d0807bb31b468, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 0.5
+    - _BumpScale1: 0.5
+    - _BumpScale2: 0.25
+    - _DetailNormalMapScale: 0.25
+    - _DistortScale: 1.02
+    - _EdgeLength: 0.1
+    - _EdgeOcclusion: 10
+    - _Extinction: 0.2
+    - _ExtinctionDist: 20
+    - _ExtinctionExp: 0.9
+    - _ExtinctionMax: 0.75
+    - _FogDensity: 0.02
+    - _FogExp: 0.9
+    - _FogMax: 0.1
+    - _Glossiness: 0.65
+    - _Metalness: 0.16071428
+    - _Smoothness: 0.8996429
+    - _UndersideGlossiness: 0.65
+    - _UseRingworldLighting: 0
+    - _VertexOcclusion: 1
+    m_Colors:
+    - _BumpParams1: {r: 1, g: 0, b: 0, a: 0}
+    - _BumpParams2: {r: 1, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
+    - _FogColor: {r: 0.12262112, g: 0.39644825, b: 0.46323532, a: 1}
+    - _SpecColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
+    - _WaveMovement: {r: 0, g: 0.171, b: 0, a: 0.282}
+    - _WaveMovement2: {r: 0, g: 0.282, b: 0.282, a: 0.282}
+    - _WaveMovement3: {r: 0, g: 0.29, b: 0.564, a: 0}
+    - _WaveScale: {r: 1, g: 1.141, b: 0.282, a: 0}
+    - _WaveScale2: {r: 2, g: 1.341, b: 0.846, a: 0}
+    - _WaveScale3: {r: 1, g: 1.846, b: 0.282, a: 0}
