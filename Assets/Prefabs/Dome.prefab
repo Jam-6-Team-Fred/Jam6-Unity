@@ -1945,12 +1945,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6318687647862833144}
   - component: {fileID: 6969552144390417637}
-  - component: {fileID: 7425970031221689440}
   - component: {fileID: 4116650703121485573}
   - component: {fileID: 5369333673944744579}
-  - component: {fileID: 4093670124939578658}
-  - component: {fileID: 5881777951011775452}
-  - component: {fileID: 7806990350470799080}
   m_Layer: 0
   m_Name: Dome
   m_TagString: Untagged
@@ -1992,24 +1988,6 @@ MonoBehaviour:
   _initialOccupants: []
   _sharedEntryways: []
   _ignoreDuplicateOccupantWarning: 0
---- !u!114 &7425970031221689440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6318687647862833147}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c40262156d82f34a77fd77af5176011, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _name: 0
-  _triggerRoot: {fileID: 0}
-  _subsectors:
-  - {fileID: 0}
-  _idString: 
-  _subsectorOverlapSafetyCheck: 0
 --- !u!114 &4116650703121485573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2027,7 +2005,7 @@ MonoBehaviour:
   _layerMask: -1
   _pointChecksOnly: 0
   _center: {x: 0, y: 0, z: 0}
-  _radius: 246.28
+  _radius: 301.95
 --- !u!114 &5369333673944744579
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2040,58 +2018,17 @@ MonoBehaviour:
   m_Script: {fileID: -428700766, guid: ef85f6c0026bed8429e867fee64d56a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sectorDome: {fileID: 7425970031221689440}
+  _name: 0
+  _triggerRoot: {fileID: 0}
+  _subsectors: []
+  _idString: 
+  _subsectorOverlapSafetyCheck: 0
+  sectorDome: {fileID: 5369333673944744579}
   domeLights:
   - {fileID: 5680078370495692001}
   - {fileID: 1346637051120105496}
   - {fileID: 5680078370754051173}
   - {fileID: 7869100919453208117}
---- !u!114 &4093670124939578658
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6318687647862833147}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be70791bd5a493208dd35e87c0687e7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _collisionMode: 0
-  _layer: 1
-  _layerMask: -1
-  _pointChecksOnly: 0
---- !u!114 &5881777951011775452
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6318687647862833147}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2bfdd4d417e1735dd929e856cf8dd819, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &7806990350470799080
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6318687647862833147}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25b7e56961bf1df33ed31b8c786ab1c3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _collisionMode: 0
-  _layer: 1
-  _layerMask: -1
-  _pointChecksOnly: 0
-  _center: {x: 0, y: 0, z: 244.7}
-  _radius: 66
 --- !u!1 &6524002200141092675
 GameObject:
   m_ObjectHideFlags: 0
