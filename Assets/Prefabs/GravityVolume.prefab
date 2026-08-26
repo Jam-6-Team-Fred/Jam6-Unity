@@ -68,7 +68,7 @@ MonoBehaviour:
   _alignmentPriority: 0
   _inheritable: 1
   _fieldDirection: {x: 0, y: -1, z: 0}
-  _fieldMagnitude: 12
+  _fieldMagnitude: 15.6
   _affectsAlignment: 1
   _offsetCentripetalForce: 0
   _playGravityCrystalAudio: 0
@@ -143,3 +143,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gravity: {fileID: 1342123157381664417}
+  disableAligment: 0
+  normalMagnitude: 18
+  lowMagnitude: 3.6
