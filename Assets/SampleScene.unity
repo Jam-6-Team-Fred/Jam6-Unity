@@ -355,8 +355,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coinworld
       objectReference: {fileID: 0}
+    - target: {fileID: 6709807482680299842, guid: 7d9ba0b8f4ca0a943bb0fd05abc93b5c,
+        type: 3}
+      propertyPath: m_Name
+      value: Past
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2092154712289128766, guid: 7d9ba0b8f4ca0a943bb0fd05abc93b5c, type: 3}
+    - {fileID: 7226432475831814424, guid: 7d9ba0b8f4ca0a943bb0fd05abc93b5c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7d9ba0b8f4ca0a943bb0fd05abc93b5c, type: 3}
 --- !u!1 &2119062646
 GameObject:
