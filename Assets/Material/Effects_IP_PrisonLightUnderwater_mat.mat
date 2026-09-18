@@ -35,5 +35,5 @@ Material:
     - _Stencil_readmask: 0
     - _Stencil_refvalue: 0
     m_Colors:
-    - _Color: {r: 7.413113, g: 17.698807, b: 16.216185, a: 0.15686275}
+    - _Color: {r: 7.413113, g: 17.698807, b: 16.216185, a: 0}
     - _FogColor: {r: 0.003921569, g: 0.06666667, b: 0.121568635, a: 1}
