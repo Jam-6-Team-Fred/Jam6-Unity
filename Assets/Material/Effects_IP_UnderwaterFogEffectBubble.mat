@@ -40,4 +40,4 @@ Material:
     - _UVFade: 0.2
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _FogColor: {r: 0.09513095, g: 0.131, b: 0.12632142, a: 1}
+    - _FogColor: {r: 0.09411765, g: 0.12941177, b: 0.1254902, a: 1}
